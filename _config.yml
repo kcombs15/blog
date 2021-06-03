@@ -3,10 +3,10 @@ title: Kara Combs
 author: Kara Combs
 email: karacombs33@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi! I am improving my github skills with the hopes of creating a personal website!
+  Kara Combs's Website and Blog
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+linkedin_username: karacombs33 # DO NOT include the @ character, or else the build will fail!
 github_username:  kcombs15 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
