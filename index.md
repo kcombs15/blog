@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Kara Combs's Website & Blog"
 ---
 
-Hello! My name is Kara and I'm a graduate student.
+Hello! My name is Kara Combs and I'm a graduate student at Wright State University.
